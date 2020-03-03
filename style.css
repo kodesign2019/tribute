@@ -1,0 +1,58 @@
+body 
+{
+  padding: 3%;  
+}
+
+.footer
+{
+text-align: left;  
+}
+
+ h2 h1 p ul { 
+     color:  #62b2e8;
+  }
+
+ h3 {
+     font-size: 37px; 
+    color: #62b2e8;
+    margin-bottom: 0px;
+  }
+
+div.container 
+{
+  background-color:#6e7f80;
+  text-align: center;
+}
+
+div.jumbotron 
+{
+  border-color: #62b2e8;
+  border-style:solid;
+}
+
+.center 
+{
+  border: 1em;
+  border-style: solid;
+  border-color: #62b2e8;
+  text-align: left;
+}
+
+#header
+{
+  color:  #62b2e8;
+  font-family: "Times New Roman" , "Georgia", "Sans-Serif"; 
+  font-size: 60px; 
+}
+
+.row 
+{
+    display: flex;
+    align-items: right;
+    justify-content: space-between;
+    padding: 5% 10% 10% 10%; 
+}
+
+.center > ul > li {
+    line-height: 27px; 
+}
